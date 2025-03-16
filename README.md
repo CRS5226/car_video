@@ -45,7 +45,7 @@ Both plots are automatically generated and displayed using **matplotlib** and **
 
 You can run this project directly in:
 
-- ✅ **Kaggle Notebook**: All dependencies are pre-installed; just update the dataset path.
+- ✅ **Kaggle Notebook**: All dependencies are pre-installed, just upload and update the dataset path.
 - ✅ **Google Colab**: Upload the `.ipynb` file and mount your dataset.
 
 No setup is required on either platform. Just upload the dataset and run the notebook cells.
@@ -54,9 +54,7 @@ No setup is required on either platform. Just upload the dataset and run the not
 ### 💻 Option 2: Run Locally
 
 1. Clone this repository and download the dataset from https://alabama.app.box.com/s/vnwa6b4qi42ts39exv8jej6vzabdu78k.
-2. Install dependencies:
-
-pip install -r requirements.txt
+2. Install dependencies: pip install -r requirements.txt
 
 ## ✅ Testing
 
@@ -69,4 +67,4 @@ pip install -r requirements.txt
 
 - Audio segmentation ensures each chunk is ≤ 5 seconds.
 - Sentiment is derived from transcribed text, not tone.
-- No external/proprietary API is used; only open-source models.
+- No external/proprietary API is used, only open-source models.
