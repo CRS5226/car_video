@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+moviepy
+torchaudio
+librosa
+ffmpeg-python
+transformers
+torch
+openai-whisper
